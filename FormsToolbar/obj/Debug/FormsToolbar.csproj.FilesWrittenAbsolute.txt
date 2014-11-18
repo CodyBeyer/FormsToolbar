@@ -1,9 +1,0 @@
-/Users/codybeyer/Projects/FormsToolbar/FormsToolbar/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
-/Users/codybeyer/Projects/FormsToolbar/FormsToolbar/obj/Debug/FormsToolbar.ToolBarPage.xaml
-/Users/codybeyer/Projects/FormsToolbar/FormsToolbar/obj/Debug/ToolBarPage.xaml.g.cs
-/Users/codybeyer/Projects/FormsToolbar/FormsToolbar/bin/Debug/FormsToolbar.dll.mdb
-/Users/codybeyer/Projects/FormsToolbar/FormsToolbar/bin/Debug/FormsToolbar.dll
-/Users/codybeyer/Projects/FormsToolbar/FormsToolbar/obj/Debug/FormsToolbar.dll
-/Users/codybeyer/Projects/FormsToolbar/FormsToolbar/obj/Debug/FormsToolbar.dll.mdb
-/Users/codybeyer/Projects/FormsToolbar/FormsToolbar/bin/Debug/Xamarin.Forms.Core.dll
-/Users/codybeyer/Projects/FormsToolbar/FormsToolbar/bin/Debug/Xamarin.Forms.Xaml.dll
